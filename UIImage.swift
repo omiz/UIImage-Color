@@ -1,3 +1,7 @@
+import UIKit
+import Foundation
+import AVFoundation
+
 extension UIImage {
 
 
